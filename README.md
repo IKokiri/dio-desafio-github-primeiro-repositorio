@@ -1,2 +1,2 @@
-# Repositório do desafio DIO Inter
+# Repositório do desafio DIO
 Projeto base
